@@ -21,4 +21,4 @@ Acesse o Swagger UI para testar a sequência completa:
 3. Acessa `GET /api/v1/tarefas` (Com Token no Header)
 
 ***
-**Com a conclusão desses documentos, o seu projeto está pronto para ser entregue nas duas disciplinas, cobrindo todos os requisitos.**
+
