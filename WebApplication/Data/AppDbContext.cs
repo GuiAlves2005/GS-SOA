@@ -11,5 +11,6 @@ namespace HarmonyWork.Data
 
         // Aqui definimos quais tabelas serão criadas
         public DbSet<Tarefa> Tarefas { get; set; }
+        public DbSet<Usuario> Usuarios { get; set; }
     }
 }
